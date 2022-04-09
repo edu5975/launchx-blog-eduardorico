@@ -1,4 +1,4 @@
-baseURL = "https://edu5975.github.io/my_launchx_blog/"
+baseURL = "https://edu5975.github.io/launchx-blog-eduardorico/"
 languageCode = "en-us"
 title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"

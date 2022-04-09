@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Launch X Bitácora de viaje on Bitácora de Viaje</title>
-    <link>https://edu5975.github.io/my_launchx_blog/</link>
+    <link>https://edu5975.github.io/launchx-blog-eduardorico/</link>
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://edu5975.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://edu5975.github.io/launchx-blog-eduardorico/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi ruta de aprendizaje en LauncX</title>
-      <link>https://edu5975.github.io/my_launchx_blog/posts/post_1/</link>
+      <link>https://edu5975.github.io/launchx-blog-eduardorico/posts/post_1/</link>
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://edu5975.github.io/my_launchx_blog/posts/post_1/</guid>
+      <guid>https://edu5975.github.io/launchx-blog-eduardorico/posts/post_1/</guid>
       <description>Previamente a LaunchX tengo ya experiencia y un gran acercamiento al mundo de la programación, soy técnico en programación así como estoy en proceso de ser ingeniero en sistemas computacionales (ya estoy en tramites así que espero en unos meses ya serlo ahora si &amp;lt;3) y actualmente me encuentro como desarrollador jr. desde hace ya casi un año, y bien, como desarrollador siempre he tenido la mentalidad de que debemos estarnos actualizando y aprendiendo cosas nuevas sin importar que ya lo hayamos visto, tengo la fiel creencia en que siempre hay algo nuevo que aprender,nunca se sabe todo sobre algo.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://edu5975.github.io/my_launchx_blog/pages/about/</link>
+      <link>https://edu5975.github.io/launchx-blog-eduardorico/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edu5975.github.io/my_launchx_blog/pages/about/</guid>
+      <guid>https://edu5975.github.io/launchx-blog-eduardorico/pages/about/</guid>
       <description>Who am I Soy un desarrollador de soluciones tecnológicas con un interés específico en la programación de aplicaciones web. Mi trabajo y dedicación refleja mi pasión por la programación, así como mis ganas de seguir aprendiendo reflejan mis ganas de superarme y ser una mejor versión de mí. Buscando una experiencia en la que pueda demostrar mis capacidades y pueda seguir creciendo.</description>
     </item>
     
